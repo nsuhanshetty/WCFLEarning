@@ -1,0 +1,14 @@
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\HelloIndigo\bin\Debug\HelloIndigo.exe.config
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\HelloIndigo\bin\Debug\HelloIndigo.exe
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\HelloIndigo\bin\Debug\HelloIndigo.pdb
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\HelloIndigo\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\HelloIndigo\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\HelloIndigo\obj\Debug\HelloIndigo.exe
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\HelloIndigo\obj\Debug\HelloIndigo.pdb
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\Client\bin\Debug\Client.exe.config
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\Client\bin\Debug\Client.exe
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\Client\bin\Debug\Client.pdb
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\Client\obj\Debug\Client.exe
+C:\Users\suhan.shetty\source\repos\WCFLearning\Chapter1\HelloIndigo\Client\obj\Debug\Client.pdb
