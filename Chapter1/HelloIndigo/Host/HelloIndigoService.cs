@@ -11,9 +11,9 @@ namespace Host
             return "Hello Indigo";
         }
 
-        public async Task HelloIndigoAsync()
-        {
-            await Task.Run(() => HelloIndigo());
-        }
+        //public async Task HelloIndigoAsync()
+        //{
+        //    await Task.Run(() => HelloIndigo());
+        //}
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System.ServiceModel;
+using System.Threading.Tasks;
 
 namespace Host
 {
@@ -8,5 +9,8 @@ namespace Host
     {
         [OperationContract]
         string HelloIndigo();
+
+        //[OperationContract]
+        //Task HelloIndigoAsync();
     }
 }
